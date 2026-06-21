@@ -1,0 +1,140 @@
+{
+  "S2TLD1080x1920": {
+    "dataset_name": "S2TLD1080x1920",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "total_objects": 2436,
+    "class_distribution": {
+      "green": 816,
+      "red": 1235,
+      "wait_on": 306,
+      "yellow": 75,
+      "off": 4
+    },
+    "class_percentages": {
+      "green": 33.497536945812804,
+      "red": 50.69786535303776,
+      "wait_on": 12.561576354679804,
+      "yellow": 3.0788177339901477,
+      "off": 0.16420361247947454
+    },
+    "objects_per_image": {
+      "min": 0,
+      "max": 5,
+      "mean": 1.9934533551554827,
+      "median": 2.0,
+      "stdev": 0.7837140553739605
+    },
+    "bbox_statistics": {
+      "width": {
+        "min": 6,
+        "max": 320,
+        "mean": 54.53776683087028,
+        "median": 41.0
+      },
+      "height": {
+        "min": 0,
+        "max": 170,
+        "mean": 40.8743842364532,
+        "median": 32.0
+      },
+      "area": {
+        "min": 0,
+        "max": 15850,
+        "mean": 2137.095238095238,
+        "median": 1272.0
+      },
+      "aspect_ratio": {
+        "min": 0,
+        "max": 11.0,
+        "mean": 1.9586295480516018,
+        "median": 1.5674242424242424
+      }
+    },
+    "quality_flags": {
+      "truncated_objects": 0,
+      "difficult_objects": 0,
+      "truncated_percentage": 0.0,
+      "difficult_percentage": 0.0
+    },
+    "spatial_distribution": {
+      "center_x_mean": 0.5162520953065134,
+      "center_y_mean": 0.30492914918202274,
+      "center_x_stdev": 0.17363979522925863,
+      "center_y_stdev": 0.11920024384431255
+    },
+    "total_images": 1222,
+    "total_annotations": 1222,
+    "annotation_coverage": 100.0
+  },
+  "S2TLD720x1280": {
+    "dataset_name": "S2TLD720x1280",
+    "resolution": [
+      1280,
+      720
+    ],
+    "total_objects": 11694,
+    "class_distribution": {
+      "red": 6473,
+      "green": 4528,
+      "off": 503,
+      "yellow": 190
+    },
+    "class_percentages": {
+      "red": 55.35317256712844,
+      "green": 38.72071147597058,
+      "off": 4.301351120232598,
+      "yellow": 1.6247648366683771
+    },
+    "objects_per_image": {
+      "min": 1,
+      "max": 9,
+      "mean": 2.5622261174408414,
+      "median": 2.0,
+      "stdev": 1.2574849566082948
+    },
+    "bbox_statistics": {
+      "width": {
+        "min": 5,
+        "max": 117,
+        "mean": 21.470155635368567,
+        "median": 20.0
+      },
+      "height": {
+        "min": 6,
+        "max": 272,
+        "mean": 48.77680861980503,
+        "median": 46.0
+      },
+      "area": {
+        "min": 36,
+        "max": 31824,
+        "mean": 1250.2135283051136,
+        "median": 903.0
+      },
+      "aspect_ratio": {
+        "min": 0.17647058823529413,
+        "max": 1.8,
+        "mean": 0.4638354305614429,
+        "median": 0.41509433962264153
+      }
+    },
+    "quality_flags": {
+      "truncated_objects": 373,
+      "difficult_objects": 0,
+      "truncated_percentage": 3.18966991619634,
+      "difficult_percentage": 0.0
+    },
+    "spatial_distribution": {
+      "center_x_mean": 0.4913488621301522,
+      "center_y_mean": 0.26770839271801306,
+      "center_x_stdev": 0.18096111026209624,
+      "center_y_stdev": 0.20764637906359962
+    },
+    "total_images": 4564,
+    "total_annotations": 4564,
+    "annotation_coverage": 100.0
+  }
+}

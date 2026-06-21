@@ -1,0 +1,8 @@
+S2TLD720x1280/
+S2TLD1080x1920/
+*.jpg
+*.jpeg
+*.xml
+__pycache__/
+*.pyc
+.DS_Store
