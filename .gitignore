@@ -1,5 +1,6 @@
 S2TLD720x1280/
 S2TLD1080x1920/
+dataset_split/
 *.jpg
 *.jpeg
 *.xml
